@@ -1,0 +1,14 @@
+
+
+.move-box {
+    position: absolute;
+    width: 10vw;
+    height: 10vh;
+    background-color: bisque;
+    transition: 0.1s linear;
+}
+
+/* .box:hover {
+    --x-pos: var(--x-pos)+200px;
+    --y-pos: var(--y-pos)+200px;
+} */
